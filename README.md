@@ -6,7 +6,7 @@
 - 📫 How to reach me: johanneskofler2014@gmail.com
 - ⚡ Fun fact: I am a Protein Bar addict
 
-Link to [site name] (https://johannes-kofler.com)
+https://johannes-kofler.com
 
 <!--
 **jokofler/jokofler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
