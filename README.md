@@ -2,9 +2,8 @@
 - 🔭 I’m currently working on a DeFi Application
 - 🌱 I’m currently learning ReactNative
 - 👯 I’m looking to collaborate on Front-End Dev, Blockchain related Projects especially DeFi
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: johanneskofler2014@gmail.com
-- ⚡ Fun fact: I am a Protein Bar addict
+- ⚡ Fun fact: I am a Protein Bar and Ice Cream addict but its about balance, right?!?
 
 https://johannes-kofler.com
 
