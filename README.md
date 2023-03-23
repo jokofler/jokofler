@@ -1,4 +1,9 @@
-# 🏄‍♂️ Johannes Kofler
+<p align="center">
+  <h1 align="center">🏄‍♂️ Johannes Kofler</h1>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer;Always learning and growing!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 **`Digital Craftsman (Blockchain/Consultant/Developer)`**
 
