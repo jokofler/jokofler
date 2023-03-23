@@ -25,7 +25,7 @@ a financial guru turned front-end developer, NLP master coach, and a tech enthus
 
 ---
 ###
-<summary><h3>👨‍💻 My Coding Journey</h3></summary>
+<details><summary><h3>👨‍💻 My Coding Journey</h3></summary>
 A former Senior Financial Consultant with specialization on capital markets turned front-end developer with a Master's in Blockchain Technologies. By day, I craft delightful digital experiences using HTML5, CSS, JS, Tailwind, and React. By night, I’m a soccer, beach volleyball, and kickboxing fanatic, all while being a fitness addict who can't resist protein bars and ice cream (balance is key, right?).
 <br><br>
 
@@ -33,6 +33,8 @@ As an NLP practitioner and Master Coach, I'm a firm believer in the power of per
 <br><br>
 Discipline and focus fuel my zest for life, and I bring that energy to everything I do - be it designing seamless interfaces or perfecting my head-kick in the ring. If you're looking for a versatile developer with a unique blend of skills and a genuine passion for innovation, then you've come to the right place. Together, let's build something extraordinary!
 <br><br>
+</details>
+
 # What else?
 - 🔭 I’m currently working on a DeFi Application
 - 🌱 I’m currently learning Solidity
