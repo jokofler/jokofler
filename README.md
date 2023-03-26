@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer;Always learning and growing!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
+<p align ="center">
+ <a  href="https://johannes-kofler.com/"><strong>Portfolio Website</strong></a>
+</p>
+                                        
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/johanneskofler/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/jokofler/Images/blob/main/LinkedinIcon.png"/></a>
@@ -51,5 +55,3 @@ Discipline and focus fuel my zest for life, and I bring that energy to everythin
 - 👯 I’m looking to collaborate on Front-End Dev, Blockchain related Projects especially DeFi
 - 📫 How to reach me: johanneskofler2014@gmail.com
 - ⚡ Fun fact: I am a Protein Bar and Ice Cream addict but its about balance, right?!?
-
-https://johannes-kofler.com
