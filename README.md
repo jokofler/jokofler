@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer;Always learning and growing!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
-<p align ="center">
+<h3 align ="center">
  <a  href="https://johannes-kofler.com/"><strong>Portfolio Website</strong></a>
-</p>
+</h3>
                                         
 <!-- Social icons section -->
 <p align="center">
