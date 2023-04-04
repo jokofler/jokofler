@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-**`Digital Craftsman (Blockchain/Consultant/Developer)`**
+**`Digital Craftsman (Blockchain/Front-End/Developer)`**
 
 Hey there! I'm Johannes Kofler
 a financial guru turned front-end developer, NLP master coach, and a tech enthusiast with a deep love for AI, IoT, and blockchain. I'm on a journey to merge my passions and create cutting-edge experiences that'll change the world.
